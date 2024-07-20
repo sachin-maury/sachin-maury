@@ -26,4 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-maury&show_icons=true&locale=en&layout=compact" alt="sachin-maury" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-maury&show_icons=true&locale=en" alt="sachin-maury" /></p>
-<p><img src="https://raw.githubusercontent.com/sachin-maury/sachin-maury/output/snake.svg" alt="Snake animation" /></p>
+
