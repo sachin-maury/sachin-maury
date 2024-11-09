@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">I am Sachin Kumar 🙌 </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-maury&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-maury" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-maury" alt="sachin-maury" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachin-maury](https://github.com/sachin-maury)
 
